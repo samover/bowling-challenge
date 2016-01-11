@@ -2,11 +2,11 @@
 Bowling Scorecard 
 =================
 
-![Game Screenshot](http://i.imgur.com/YrNrgJh.png)
-
 The Bowling Scorecard App counts and sums the scores of a bowling game for one player. It is my first app written in Javascript (jQuery) with unit tests in Jasmine.
 
 A bowling game consists of 10 frames in which the player tries to knock down the 10 pins. In every frame the player can roll one or two times. The actual number depends on strikes and spares. The score of a frame is the number of knocked down pins plus bonuses for strikes and spares. After every frame the 10 pins are reset.
+
+![Game Screenshot](http://i.imgur.com/jxTjpmA.png)
 
 What follows is an example of a scorecard.
 
