@@ -8,10 +8,6 @@ A bowling game consists of 10 frames in which the player tries to knock down the
 
 ![Game Screenshot](http://i.imgur.com/jxTjpmA.png)
 
-What follows is an example of a scorecard.
-
-![Ten Pin Score Example](images/example_ten_pin_scoring.png)
-
 Approach 
 --------
 
