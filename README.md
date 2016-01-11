@@ -2,7 +2,7 @@
 Bowling Scorecard 
 =================
 
-![Game Screenshot](http://imgur.com/jxTjpmA)
+![Game Screenshot](http://i.imgur.com/YrNrgJh.png)
 
 The Bowling Scorecard App counts and sums the scores of a bowling game for one player. It is my first app written in Javascript (jQuery) with unit tests in Jasmine.
 
